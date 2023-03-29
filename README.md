@@ -1,2 +1,2 @@
 # UrnaEletronica.C
- Material do curso de lógica de programação em C.
+ Trabalho da faculdade para a matéria de lógica de programação em C.
